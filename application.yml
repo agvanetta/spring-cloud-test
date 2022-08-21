@@ -1,8 +1,1 @@
 global-message: This is a global message for all services.
-spring:
-  cloud:
-    config:
-      server:
-        git: 
-          default-label: main
-          clone-on-start: true 
